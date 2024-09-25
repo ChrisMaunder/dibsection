@@ -6,7 +6,7 @@ A class that makes using DIBSections as simple as using a CBitmap
 
 
 
-![Sample Image](https://raw.githubusercontent.com/ChrisMaunder/dibsection/master/docs/assets/DIBSection.jpg)
+![Sample Image](https://raw.githubusercontent.com/ChrisMaunder/dibsection/master/docs/assets/dibsection.jpg)
 
 <!-- Article Starts -->
 
@@ -14,7 +14,8 @@ A class that makes using DIBSections as simple as using a CBitmap
 
 The sample demo workspace includes two projects: DIBSectionTest for Win32 
 environments, and DIBSectionTestCE for CE environments that demonstrate the ` DIBSection` wrapper. You will need the CE SDKs from Microsoft to be installed before you can build DIBSectionTestCE.dsw.
-There is also a [version of the DIBSection](https://raw.githubusercontent.com/ChrisMaunder/dibsection/master/docs/assets/DibSection_noMFC.zip) wrapper  ported by Kenny Goers with no dependancies on MFC. This version is currently slightly out of sync with the MFC version, and is provided as a convenience only.
+
+There is also a version of the DIBSection wrapper, ported by Kenny Goers, with no dependancies on MFC. This version is currently slightly out of sync with the MFC version, and is provided as a convenience only.
 
 ## Introduction
 
